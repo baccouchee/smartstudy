@@ -13,7 +13,7 @@ Earn Money by answering surveys.
 Your market studies at a Lower Cost.
 Freelance for associates.
 
-SmartStudy is a Simple, Fast and Corporate Application.
+SmartStudy is a Simple, Fast and Corporate Application
 
 ## Screenshots
 
@@ -29,6 +29,7 @@ width="200"
 ## Permissions
 
 On Android versions prior to Android 7.0, smartStudy requires the following permissions:
+
 - Full Network Access.
 - View Network Connections.
 - Run at startup.
