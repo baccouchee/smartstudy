@@ -17,12 +17,13 @@ SmartStudy is a Simple, Fast and Corporate Application
 
 ## Screenshots
 
-<img src="/assets/cap1.png" align="left"
+
+[<img src="/assets/cap1.PNG" align="left"
 width="200"
-    hspace="10" vspace="10">
-<img src="/assets/cap2.png" align="center"
+    hspace="10" vspace="10">](/assets/cap1.PNG)
+[<img src="/assets/cap2.PNG" align="center"
 width="200"
-    hspace="10" vspace="10">
+    hspace="10" vspace="10">](/assets/cap2.PNG)
     
 
 ## Permissions
