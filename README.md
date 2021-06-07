@@ -1,6 +1,11 @@
 # smart_study
 
+<img src="/assets/logo.png" align="left"
+width="200" hspace="10" vspace="10">
+
 A new Flutter application.
+
+SmartStudy is a mobile application that allows you to answer online surveys.
 
 ## Getting Started
 
