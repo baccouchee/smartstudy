@@ -18,10 +18,10 @@ SmartStudy is a Simple, Fast and Corporate Application
 ## Screenshots
 
 
-<img src="/assets/cap1.PNG" align="left"
+<img src="/assets/cap1.png" align="left"
 width="200"
     hspace="10" vspace="10">
-<img src="/assets/cap2.PNG" align="center"
+<img src="/assets/cap2.png" align="center"
 width="200"
     hspace="10" vspace="10">
     
